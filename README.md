@@ -1,2 +1,2 @@
-# WeatherForcastWEB
-A weather forcasting website
+# WeatherForcast_WEB
+A weather forcasting website.
