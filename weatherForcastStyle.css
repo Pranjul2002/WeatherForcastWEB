@@ -1,0 +1,30 @@
+body{
+	margin: 0;
+}
+
+header{
+	background-color: cyan;
+	position: relative;
+	height: 100px;
+	border-radius: 20px;
+}
+
+
+
+.main-body{
+	background-color: skyblue;
+	position: relative;
+	height: 710px;
+	width: 1600px;
+	left: 152px;
+	margin-top: 5px;
+	border-radius: 20px;
+}
+
+footer{
+	background-color: black;
+	position: relative;
+	height: 100px;
+	margin-top: 5px;
+	border-radius: 20px;
+}
