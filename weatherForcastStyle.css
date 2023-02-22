@@ -9,22 +9,55 @@ header{
 	border-radius: 20px;
 }
 
-
-
+.logo{
+	position: absolute;
+	left: 500px;
+	top: 35px;
+	font-size: 25px;
+}
 .main-body{
-	background-color: skyblue;
+	background-color: rgb(98, 192, 230);
 	position: relative;
-	height: 710px;
+	height: 850px;
 	width: 1600px;
 	left: 152px;
-	margin-top: 5px;
+	top: 20px;
 	border-radius: 20px;
 }
 
-footer{
-	background-color: black;
-	position: relative;
-	height: 100px;
-	margin-top: 5px;
+.search-bar input{
+	background-color: rgb(61, 163, 163);
+	font-size: 20px;
+	position: absolute;
+	width: 550px;
+	height: 50px;
+	left: 520px;
+	top: 20px;
 	border-radius: 20px;
+	border: 0px;
+}
+
+.weather-info{
+	position: relative;
+	background-color: brown;
+	height: 700px;
+	top: 100px;
+}
+
+.todays-temp{
+	position: absolute;
+	background-color: pink;
+	width: 400px;
+	height: 400px;
+	left: 200px;
+	top: 150px;
+}
+
+#weather{
+	position: absolute;
+	background-color: greenyellow;
+	width: 400px;
+	height: 400px;
+	left: 1000px;
+	top: 150px;
 }
